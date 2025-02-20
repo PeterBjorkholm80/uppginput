@@ -14,7 +14,7 @@ int main()
     printf("%s\n", name);
     //printf("How old are you?");
     scanf("%d", &age);   // Read an integer
-    print("%d", age);
+    printf("%d", age);
 
     /* -- Solution to here -- */
     // Your code goes here
