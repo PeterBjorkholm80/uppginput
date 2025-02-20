@@ -9,10 +9,12 @@ int main()
     char name[20];
     int age;
 
-    printf("What is your name?");
+    //printf("What is your name?");
     scanf("%s", name); // Read a string (without spaces)
-    printf("How old are you?");
+    printf("%s\n", name);
+    //printf("How old are you?");
     scanf("%d", &age);   // Read an integer
+    print("%d", age);
 
     /* -- Solution to here -- */
     // Your code goes here
